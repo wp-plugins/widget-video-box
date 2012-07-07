@@ -7,7 +7,8 @@ Tested up to: 3.4.1.
 Stable tag: 1.0.1
 
 == Description ==
-Simple plugin to add video into your widget box.
+Simple plugin to add video into your widget box. Supports Youtube, Dailymotion, Vimeo and many other sites that provide embedd code.. just don't forget to edit the embedd code to the size of your widget box
+
 Tested up to 3.4.1.
 
 
@@ -21,7 +22,8 @@ Follow the steps below to install the plugin.
 1. Upload the files to your /wp-content/plugins/ directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Drag and drop "Video Box" into your preferred widget area
-4. Paste embedd code into the widget editor and click "Save"
+4. Grab embed code from desired site and edit the height and width to your desired size
+5. Paste embedd code into the widget editor and click "Save"
 
 == Screenshots ==
 
