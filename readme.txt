@@ -25,8 +25,14 @@ Follow the steps below to install the plugin.
 4. Grab embed code from desired site and edit the height and width to your desired size
 5. Paste embedd code into the widget editor and click "Save"
 
-== Screenshots ==
+Editable fields include:
+Title - [for the widget]
+Embed Code - [remember to edit sizes]
+More Text - [goes under the video]
+Link - [will create a link for the More Text]
 
+== Screenshots ==
+1. Widget Box
 
 == Help ==
 For help and support please contact us at info [at] purpleturtleproductions.ca
