@@ -3,12 +3,11 @@ Contributors: www.purpleturtleproductions.ca
 Donate link: http://www.purpleturtleproductions.ca
 Tags: Featured Image, Video
 Requires at least: 2.7.2
-Tested up to: 2.9.2
+Tested up to: 3.4.1.
 Stable tag: 1.0.1
 
 == Description ==
 Simple plugin to add video into your widget box.
-
 Tested up to 3.4.1.
 
 
@@ -29,6 +28,7 @@ Follow the steps below to install the plugin.
 
 == Help ==
 For help and support please contact us at info [at] purpleturtleproductions.ca
+Or submit a support ticket at http://accounts.purpleturtleproductions.ca
 
 == Frequently Asked Questions == 
 
