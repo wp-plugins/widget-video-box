@@ -2,8 +2,8 @@
 /*
 Plugin Name: Easy Video Widget Box
  Plugin URI: http://www.purpleturtleproductions.ca/
- Description: Easy Video Widget Box
- Version: 1.0
+ Description: Simple plugin to add video into your widget box. Supports Youtube, Dailymotion, Vimeo and many other sites that provide embedd code.. just don't forget to edit the embedd code to the size of your widget box
+ Version: 1.2
  Author: Purple Turtle Productions
  Author URI: http://www.purpleturtleproductions.ca/
 */

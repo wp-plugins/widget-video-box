@@ -3,13 +3,13 @@ Contributors: www.purpleturtleproductions.ca
 Donate link: http://www.purpleturtleproductions.ca
 Tags: Video Widget, Video
 Requires at least: 2.7.2
-Tested up to: 3.4.1.
-Stable tag: 1.0.1
+Tested up to: 3.4.1
+Stable tag: 1.2
 
 == Description ==
 Simple plugin to add video into your widget box. Supports Youtube, Dailymotion, Vimeo and many other sites that provide embedd code.. just don't forget to edit the embedd code to the size of your widget box
 
-Tested up to 3.4.1.
+Tested up to 3.4.1
 
 
 #### Functionality
