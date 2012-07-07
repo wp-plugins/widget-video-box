@@ -1,7 +1,7 @@
 === Easy Video Widget Box ===
 Contributors: www.purpleturtleproductions.ca
 Donate link: http://www.purpleturtleproductions.ca
-Tags: Featured Image, Video
+Tags: Video Widget, Video
 Requires at least: 2.7.2
 Tested up to: 3.4.1.
 Stable tag: 1.0.1
